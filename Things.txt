@@ -1,18 +1,3 @@
-Edit 1 Now this should be on the server
-
-CRAZY NEW ADDITIONS
-  SO MUCH NEW
-    NEW ON NEW ON NEW
-    
-    THIS IS A NEW SERVER ONLY CHANGE
-
-This should show up on origin
-
-this should be pulled.
-    This is now on the server
-
-This should be pushed.
-
 LOCAL CHANGES NOT IN THE SERVER
 	ADDING ALL THE THINGS LOCALLY
 		FOR WHILE CODING SHIT
