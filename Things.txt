@@ -4,4 +4,8 @@ This should show up on origin
 
 this should be pulled.
 
+<<<<<<< Updated upstream
 Secondary Changes
+=======
+This should be pushed.
+>>>>>>> Stashed changes
