@@ -9,6 +9,7 @@ CRAZY NEW ADDITIONS
 This should show up on origin
 
 this should be pulled.
+    This is now on the server
 
 This should be pushed.
 
